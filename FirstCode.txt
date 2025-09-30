@@ -1,4 +1,4 @@
 Hello people !!!
-
 take input fron user
 add the values
+add all to database
